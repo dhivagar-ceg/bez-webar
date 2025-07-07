@@ -1,0 +1,21 @@
+{
+   "name": "mindar-business-card",
+   "version": "1.0.0",
+   "scripts": {
+      "dev": "vite",
+      "build": "npx vite build",
+      "preview": "vite preview"
+   },
+   "dependencies": {
+      "mind-ar": "^1.1.5",
+      "three": "^0.152.2"
+   },
+   "main": "main.js",
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "description": "",
+   "devDependencies": {
+      "vite": "^5.4.19"
+   }
+}
